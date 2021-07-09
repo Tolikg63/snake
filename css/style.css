@@ -1,0 +1,15 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+canvas {
+   background: radial-gradient(circle, rgba(0,249,209,1) 0%, rgba(68,157,183,1) 38%, rgba(121,85,162,1) 96%);
+}
+#wrapper {
+   width: 100%;
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
